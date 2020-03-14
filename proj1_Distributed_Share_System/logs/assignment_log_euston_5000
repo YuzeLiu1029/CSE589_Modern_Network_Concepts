@@ -1,0 +1,32 @@
+[LOGIN 128.205.36.33 4332:SUCCESS]
+[LOGIN 128.205.36.33 4332:END]
+[LIST:SUCCESS]
+1    euston.cse.buffalo.edu             128.205.36.34       5000    
+[LIST:END]
+[SEND:ERROR]
+[SEND:END]
+[SEND:ERROR]
+[SEND:END]
+[IP:SUCCESS]
+IP:128.205.36.34
+[IP:END]
+[RECEIVED:SUCCESS]
+msg from:128.205.36.36
+[msg]:HELLO
+[RECEIVED:END]
+[AUTHOR:SUCCESS]
+I, yuzeliu, have read and understood the course academic integrity policy.
+[AUTHOR:END]
+[IP:SUCCESS]
+IP:128.205.36.34
+[IP:END]
+[RECEIVED:SUCCESS]
+msg from:128.205.36.36
+[msg]:HI]
+[RECEIVED:END]
+[SEND:ERROR]
+[SEND:END]
+[SEND:ERROR]
+[SEND:END]
+[SEND:ERROR]
+[SEND:END]

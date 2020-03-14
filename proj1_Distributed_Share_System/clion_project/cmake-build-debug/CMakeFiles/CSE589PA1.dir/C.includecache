@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yuzeliu/Google Drive/Share/CSE589PA1_test/main.c
+stdio.h
+-
+netdb.h
+-
+string.h
+-
+arpa/inet.h
+-
+unistd.h
+-
+stdlib.h
+-
+

@@ -1,0 +1,10 @@
+[LOGIN 128.205.36.33 4332:SUCCESS]
+[LOGIN 128.205.36.33 4332:END]
+[LIST:SUCCESS]
+1    euston.cse.buffalo.edu             128.205.36.34       5000    
+2    underground.cse.buffalo.edu        128.205.36.36       6000    
+[LIST:END]
+[SEND:SUCCESS]
+[SEND:END]
+[SEND:SUCCESS]
+[SEND:END]
